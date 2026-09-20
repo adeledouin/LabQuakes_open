@@ -185,7 +185,7 @@ path_from_root_data/
             └── Expid_force_database.db
 ```
 
-Data paths are specified in `./Utils/path_from_root.py`. Raw data is imported from NAS — see `./Remote/Notes_data_analysis.md` for details.
+Data paths are specified in `./Utils/path_from_root.py`. Raw data is imported from NAS.
 
 ---
 
@@ -275,5 +275,5 @@ If you use this code or dataset, please cite:
 
 ## License
 
-Code: **MIT License**.
-Data: **CC-BY 4.0** (upon deposit).
+This code is released under the **MIT License** (see `LICENSE`).
+The associated dataset is released under **CC-BY 4.0** (upon deposit).
