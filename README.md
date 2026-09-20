@@ -2,7 +2,7 @@
 
 **Multimodal analysis of avalanche dynamics in a laboratory granular fault**
 
-*A. Douin, E. Saurety, V. Levy dit Vehel, L. Combe, L. Vanel, O. Cochet-Escartin & O. Ramos*
+*A. Douin, E. Saurety, V. Levy dit Vehel, L. Combe, L. Vanel, O. Cochet-Escartin & O. Ramos*  
 *Institut Lumière Matière (ILM), UMR5306, Université Claude Bernard Lyon 1 – CNRS, Villeurbanne, France*
 
 ---
